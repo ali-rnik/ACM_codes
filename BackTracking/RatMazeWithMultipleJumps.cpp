@@ -1,3 +1,5 @@
+// Link to this question : https://practice.geeksforgeeks.org/problems/rat-maze-with-multiple-jumps/0
+
 #include <iostream>
 #include <cstdio>
 #include <vector>
@@ -126,8 +128,3 @@ void gdb()
 		cout << endl;
 	}	
 }
-
-
-
-
-
