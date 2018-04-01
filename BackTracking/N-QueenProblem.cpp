@@ -1,3 +1,5 @@
+// link to problem : https://practice.geeksforgeeks.org/problems/n-queen-problem/0
+// this solution is not optimal and it will be time limit exceeded.
 #include <iostream>
 #include <cstdio>
 #include <vector>
