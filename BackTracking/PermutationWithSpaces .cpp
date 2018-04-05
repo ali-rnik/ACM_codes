@@ -1,3 +1,4 @@
+// link to this problem : https://practice.geeksforgeeks.org/problems/permutation-with-spaces/0
 #include <iostream>
 #include <cstdio>
 #include <vector>
